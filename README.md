@@ -10,4 +10,4 @@ This project is a Python-based application designed to streamline attendance tra
 - **User-Friendly Interface:** Simple and intuitive interface for easy use.
 
 ## Below is an example of how this work:
-<img width="1470" alt="carRentalz" src="https://github.com/tejex/faceAttendanceSystem/faceAuth.png">
+<img width="1470" src="https://github.com/tejex/faceAttendanceSystem/faceAuth">
