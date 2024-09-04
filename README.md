@@ -8,3 +8,6 @@ This project is a Python-based application designed to streamline attendance tra
 - **Facial Recognition:** Implements facial recognition to identify and log attendance.
 - **Automated Attendance Logging:** Automatically records attendance with time stamps.
 - **User-Friendly Interface:** Simple and intuitive interface for easy use.
+
+## Below is an example of how this work:
+<img width="1470" alt="carRentalz" src="https://github.com/tejex/faceAttendanceSystem/faceAuth.png">
