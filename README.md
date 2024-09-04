@@ -9,5 +9,5 @@ This project is a Python-based application designed to streamline attendance tra
 - **Automated Attendance Logging:** Automatically records attendance with time stamps.
 - **User-Friendly Interface:** Simple and intuitive interface for easy use.
 
-## Below is an example of how this work:
-<img width="1470" src="https://github.com/tejex/faceAttendanceSystem/faceAuth">
+## Below is an example of how this work: 
+![Face Attendance System: ](https://drive.google.com/file/d/1pUXgpEDF5vS-G08UB2Qb37UgZhCssvYP/view?usp=drive_link)
